@@ -1,0 +1,1 @@
+{"version":3,"file":"bundles/585.71c30a9de0e2a7aa139a.css","mappings":"AAqCA,8BACE,kBAAmB,CAEnB,eADA,sBACe","sources":["webpack:///./verify/step-1.vue"],"sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n.chip.v-icon {\r\n  align-items: center;\r\n  justify-content: center;\r\n  font-size: 80vw;\r\n}\r\n"],"names":[],"sourceRoot":""}
